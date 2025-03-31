@@ -9,6 +9,7 @@ Linux: `python3 -m venv .venv`
 This creates a virtual enviroment named `.venv`
 2. VS Code: *Ctrl + Shift + P*, `Python: Select Interpreter`
 3. `pip install Flask`
+4. `flask --app flaskr init-db`
 
 ## Run the App
 
